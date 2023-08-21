@@ -7,7 +7,7 @@ Pré-requisitos
 Para executar este projeto, você precisará ter as seguintes ferramentas instaladas:
 
 - Visual Studio 
-- .NET Core 6.1
+- .NET Core 6.0
 - SQL Server Express
 
 Como usar
